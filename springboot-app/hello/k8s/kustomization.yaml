@@ -9,4 +9,4 @@ resources:
 images:
 - name: rudyru2003/hello-app
   newName: rudyru2003/hello-app
-  newTag: 3ad3e28
+  newTag: e8080c3
